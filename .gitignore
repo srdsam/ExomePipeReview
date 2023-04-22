@@ -1,0 +1,7 @@
+/ggcrd-api/node_modules
+/ggcrd-client/build
+/ggcrd-api/data
+/ggcrd-client/node_modules
+**/.DS_Store
+
+DontReadMe.md
